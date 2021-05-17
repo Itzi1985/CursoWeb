@@ -1,0 +1,14 @@
+{
+  "name": "tarea1",
+  "version": "1.0.0",
+  "description": "curso web t1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "itzel martinez quintino",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.3.0"
+  }
+}
